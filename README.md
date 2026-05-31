@@ -49,8 +49,3 @@ jupyter lab  # or jupyter notebook
 **Caveats & notes**
 - Qiskit and related packages are version-sensitive; if you encounter import errors, try adjusting Qiskit package versions as shown in the notebook cells.
 - The notebook contains toy/simulated functions (e.g., `bert_eval_loss`) and randomized placeholders — results are illustrative and may require adaptation for production experiments.
-
-If you'd like, I can create a `requirements.txt` with the pinned versions shown above and/or run `git init` and make an initial commit for you.
-=======
-# GroverBERT-Quantum-assisted-HPO-for-BERT
->>>>>>> origin/main
