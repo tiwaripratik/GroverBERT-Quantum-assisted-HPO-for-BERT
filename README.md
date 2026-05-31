@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GroverBERT — Quantum-assisted HPO for BERT
 
 This repository (GroverBERT) demonstrates using quantum-inspired optimization (QAOA/VQE/Grover) to tune hyperparameters for fine-tuning a BERT sequence classification model. The primary artifact is the Jupyter notebook [Quantum.ipynb](Quantum.ipynb) which contains experiments, toy QUBO formulations, and a full fine-tuning pipeline.
@@ -50,3 +51,6 @@ jupyter lab  # or jupyter notebook
 - The notebook contains toy/simulated functions (e.g., `bert_eval_loss`) and randomized placeholders — results are illustrative and may require adaptation for production experiments.
 
 If you'd like, I can create a `requirements.txt` with the pinned versions shown above and/or run `git init` and make an initial commit for you.
+=======
+# GroverBERT-Quantum-assisted-HPO-for-BERT
+>>>>>>> origin/main
