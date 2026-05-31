@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environments
+env/
+venv/
+.venv/
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
